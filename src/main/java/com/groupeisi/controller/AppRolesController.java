@@ -1,7 +1,7 @@
 package com.groupeisi.controller;
 
 
-import com.groupeisi.controller.service.AppRolesService;
+import com.groupeisi.service.AppRolesService;
 import com.groupeisi.domaine.Roles;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;

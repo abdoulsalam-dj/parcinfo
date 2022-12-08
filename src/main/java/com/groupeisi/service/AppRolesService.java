@@ -1,4 +1,4 @@
-package com.groupeisi.controller.service;
+package com.groupeisi.service;
 
 import com.groupeisi.dao.IAppRolesRepository;
 import com.groupeisi.domaine.Roles;
