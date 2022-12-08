@@ -12,6 +12,7 @@ import javax.validation.constraints.NotNull;
 @AllArgsConstructor
 public class Roles {
     private int id;
-    @NotNull(message = "Le nom ne doit pas etre null")
+
+    @NotNull(message = "Le nom ne doit pas etre")
     private String nom;
 }
